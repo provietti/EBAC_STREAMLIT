@@ -21,6 +21,6 @@ https://archive.ics.uci.edu/dataset/222/bank+marketing
 
 ### Executando o projeto
 
-* A aplicaçção pode ser executda online no seguinte link:
+* A aplicação pode ser executda no seguinte link:
 * https://ebac-streamlit-deploy.onrender.com
 
