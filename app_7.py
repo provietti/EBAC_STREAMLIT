@@ -47,7 +47,7 @@ def to_excel(df):
 # Função principal da aplicação
 def main():
     # Configuração inicial da página da aplicação
-    st.set_page_config(page_title = 'Telemarketing analisys', \
+    st.set_page_config(page_title = 'Análise de Dados de Telemarketing', \
         page_icon = 'telmarketing_icon.png',
         layout="wide",
         initial_sidebar_state='expanded'
