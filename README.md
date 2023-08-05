@@ -1,4 +1,4 @@
-# EBAC -  Análise dos dados de Telemarketing
+# EBAC -  Análise de Dados de Telemarketing
 
 ## Descrição do projeto
 
