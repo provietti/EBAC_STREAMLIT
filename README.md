@@ -16,7 +16,7 @@ A aplicação permite o upload de uma base de dados disponivel no UCI sobre camp
 
 ### Dependências
 
-A base de dados utilizada das análises da aplicação pode ser obtida em :
+A base de dados utilizada nas análises da aplicação pode ser obtida em :
 https://archive.ics.uci.edu/dataset/222/bank+marketing
 
 ### Executando o projeto
