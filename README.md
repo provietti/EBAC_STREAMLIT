@@ -11,7 +11,7 @@ A aplicação permite o upload de uma base de dados disponivel no UCI sobre camp
 - Diversos filtros para a base de dados;
 - Visualização da base de Dados original e após os filtros;
 - Visualização  em tabela da proporção das pessoas que foram contactadas pelo telemarketing que adquiriram ou não produto do banco (yes/no);
-- Visualização gráfica em barras ou gráfico de pizza à escolha do usuário da proporção de aceite do produto do banco; e
+- Visualização gráfica em barras ou gráfico de pizza, à escolha do usuário, da proporção de aceite do produto do banco; e
 - Download dos gráficos e tabelas geradas.
 
 ### Dependências
