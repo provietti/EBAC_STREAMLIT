@@ -19,13 +19,6 @@ A aplicação permite o upload de uma base de dados disponivel no UCI sobre camp
 A base de dados utilizada das análises da aplicação pode ser obtida em :
 https://archive.ics.uci.edu/dataset/222/bank+marketing
 
-* Para rodar
-
-### Instalação
-
-* Como/aonde fazer o download do seu projeto/programa
-* Quaisquer modificação necessária nos arquivos/diretórios
-
 ### Executando o projeto
 
 * A aplicaçção pode ser executda online no seguinte link:
