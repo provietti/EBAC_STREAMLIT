@@ -1,21 +1,25 @@
-# Título do projeto
-
-Um simples resumo do uso/propósito do projeto.
+# EBAC -  Análise dos dados de Telemarketing
 
 ## Descrição do projeto
 
-Um parágrafo aprofundando mais sobre o seu projeto e uma explicação geral do uso.
+Uma aplicação simples feita no âmbito do curso Profissão:Cientista de Dados dea EBAC, para estudo da biblioteca Streamlit e das formas de fazer o deploy da aplicação.
+A aplicação permite o upload de uma base de dados disponivel no UCI sobre campanhas de Telemarketing de um banco e analise desses dados.
 
-### Link para a aplicação (Live)
+## Funcionalidades
 
-https://ebac-streamlit-deploy.onrender.com
+- Upload da base de dados;
+- Diversos Filtros para a base de dados;
+- Visualização da base de Dados original e após os filtros;
+- Visualização  em tabela da proporção das pessoas que foram contactadas pelo telemarketing que adquiriram ou não produto do banco (yes/no);
+- Visualização gráfica em barras ou gráfico de pizza à escolha do usuário da proporção de aceite do produto do banco; e
+- Download dos gráficos e tabelas geradas.
 
-## Utilização
+### Dependências
 
-### Dependencias
+A base de dados utilizada das análises da aplicação pode ser obtida em :
+https://archive.ics.uci.edu/dataset/222/bank+marketing
 
-* Descreve quaisquer prerequisitos, bibliotecas, versão do SO, etc., que é necessário para rodar o projeto.
-* exemplo. Windows 10...
+* Para rodar
 
 ### Instalação
 
@@ -24,43 +28,6 @@ https://ebac-streamlit-deploy.onrender.com
 
 ### Executando o projeto
 
-* Como rodar o projeto/programa
-* Passo a passo em tópicos (bullet points)
-```
-bloco de código para os comandos necessários
-```
+* A aplicaçção pode ser executda online no seguinte link:
+* https://ebac-streamlit-deploy.onrender.com
 
-## Ajuda
-
-Qualquer ponto importante de problemas ou erros comuns
-```
-comando para rodar se o programa tiver uma informação de ajuda
-```
-
-## Autores
-
-Nomes dos desenvolvedores do projeto e informação para entrar em contato.
-
-ex. Lucas Serra  
-ex. [@LucasSerra](https://www.linkedin.com/in/lucasserra03/)
-
-## Histórico de versões.
-
-* 0.2
-	* Ajustes de diversos bugs e otimização
-* 0.1
-    * Primeira versão
-
-## Licença de uso
-
-Esse projeto possui licença de uso [NAME HERE] - acesse o arquivo LICENSE.md para mais detalhes.
-
-## Fontes de inspiração
-
-Inspiração, trechos de códigos utilizados, etc.
-* [readme-template](https://gist.github.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc)
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
